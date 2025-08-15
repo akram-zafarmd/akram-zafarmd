@@ -54,9 +54,9 @@
 - **5th Position** – Intra-University Contest on Crack Dataset (CD-2024)  
   Organized by DIU NLP & ML Research Lab  
 
-- **7th Position (out of 130 teams)** – DATATHON FALL-2024  
-  Organized by DIU CPC  
-
+- **7th Position** – DATATHON FALL-2024  
+  Organized by DIU CPC
+  
 ---
 
 ### 🔗 Connect with Me
